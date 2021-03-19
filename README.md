@@ -1,6 +1,6 @@
 # ABC Genius
 
-ABC Genius is a free alphabet teaching app that makes learning fun for children with images and attractive features, from toddlers all the way to preschoolers and kindergartners. The interface keeps toddlers focused on alphabet reading and writing along with a a-z song. The app focuses on learning flexibility by providing all basic means like reading, writing and listening.
+ABC Genius is a free alphabet teaching app for toddlers all the way to preschoolers and kindergartners, that makes learning fun for children with images, drawing and listening features. The app contains music and colorful letters to help your toddler learn Alphabets in English.
 
 ![ss1](https://user-images.githubusercontent.com/73191264/111756720-8ae08380-88c0-11eb-98f2-aee9c40490d0.png)
 
